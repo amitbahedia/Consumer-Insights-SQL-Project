@@ -1,3 +1,5 @@
+The Project is part of Codebasics SQL Course
+
 **About the Company**
 
 Atliq Hardwares (Imaginary Company for this project) is a leading manufacturer of computer hardware
